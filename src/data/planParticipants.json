@@ -1,0 +1,12 @@
+[
+{"id":"member-001","planId":"plan-001","userId":"user-001","status":"confirmed","joinedAt":"2026-10-07T12:00:00-05:00"},
+{"id":"member-002","planId":"plan-001","userId":"user-003","status":"confirmed","joinedAt":"2026-10-07T12:20:00-05:00"},
+{"id":"member-003","planId":"plan-002","userId":"user-002","status":"confirmed","joinedAt":"2026-10-07T12:10:00-05:00"},
+{"id":"member-004","planId":"plan-002","userId":"user-004","status":"confirmed","joinedAt":"2026-10-07T13:00:00-05:00"},
+{"id":"member-005","planId":"plan-003","userId":"user-001","status":"confirmed","joinedAt":"2026-10-07T13:20:00-05:00"},
+{"id":"member-006","planId":"plan-004","userId":"user-002","status":"confirmed","joinedAt":"2026-10-07T13:30:00-05:00"},
+{"id":"member-007","planId":"plan-004","userId":"user-004","status":"confirmed","joinedAt":"2026-10-07T13:40:00-05:00"},
+{"id":"member-008","planId":"plan-004","userId":"user-001","status":"confirmed","joinedAt":"2026-10-07T13:50:00-05:00"},
+{"id":"member-009","planId":"plan-005","userId":"user-003","status":"confirmed","joinedAt":"2026-10-07T14:00:00-05:00"},
+{"id":"member-010","planId":"plan-006","userId":"user-001","status":"confirmed","joinedAt":"2026-10-07T14:10:00-05:00"}
+]

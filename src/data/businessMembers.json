@@ -1,0 +1,4 @@
+[
+{"id":"business-member-001","businessId":"business-001","userId":"user-001","role":"owner"},
+{"id":"business-member-002","businessId":"business-002","userId":"user-003","role":"manager"}
+]

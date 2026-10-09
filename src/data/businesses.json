@@ -1,0 +1,4 @@
+[
+{"id":"business-001","name":"Café La Esquina","category":"Café y comida","description":"Café de especialidad, repostería local y encuentros tranquilos.","city":"Bogotá","address":"Chapinero, Bogotá","emoji":"☕","color":"from-amber-100 to-orange-50"},
+{"id":"business-002","name":"Ritmo Estudio","category":"Baile y música","description":"Un espacio para bailar, aprender y conectar con otros.","city":"Bogotá","address":"Teusaquillo, Bogotá","emoji":"💃","color":"from-pink-100 to-rose-50"}
+]

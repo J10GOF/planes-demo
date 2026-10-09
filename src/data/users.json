@@ -1,0 +1,10 @@
+[
+{"id":"user-001","name":"Camila Torres","email":"camila@demo.com","city":"Bogotá","avatar":"CT","bio":"Me gusta caminar, el café y conocer lugares nuevos."},
+{"id":"user-002","name":"Andrés Rojas","email":"andres@demo.com","city":"Bogotá","avatar":"AR","bio":"Amante del aire libre y las buenas conversaciones."},
+{"id":"user-003","name":"Valentina Mora","email":"vale@demo.com","city":"Bogotá","avatar":"VM","bio":"Siempre lista para probar algo diferente."},
+  {"id":"user-004","name":"Nicolás Peña","email":"nico@demo.com","city":"Bogotá","avatar":"NP","bio":"Música, bici y caminatas largas."},
+  {"id":"user-005","name":"Luis Carlos","email":"luiscarlos.barcelona@demo.com","city":"Barcelona, España","avatar":"LC","bio":"Me gusta conocer lugares nuevos y compartir buenos planes."},
+  {"id":"user-006","name":"Luis Carlos","email":"luiscarlos.monteria@demo.com","city":"Montería, Colombia","avatar":"LC","bio":"Disfruto los planes al aire libre y conocer gente."},
+  {"id":"user-007","name":"Juan Diego","email":"juandiego.monteria@demo.com","city":"Montería, Colombia","avatar":"JD","bio":"Siempre dispuesto a sumarme a un buen plan."}
+]
+
